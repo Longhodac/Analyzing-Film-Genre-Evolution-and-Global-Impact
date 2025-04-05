@@ -15,7 +15,7 @@ We collected data from a large movie database found on Kaggle and cleaned it to 
 
 After conducting our data analysis, we determined the conclusion to be that there wasn't any statistically significant evidence showing movie genres changed drastically between these two time periods, but that there were some small shifts in one or two of the many genres we looked at as a whole.
 
-Research Question
+## Research Question
 "How did the COVID-19 pandemic impact the genres of top-grossing films, comparing the genres of the 100 highest-grossing films released post COVID-19 pandemic (2022-2024) compared to pre-pandemic years (2017-2019)?"
 
 Background and Prior Work
@@ -33,10 +33,10 @@ While these discussions provide valuable insights into industry-wide changes, th
 
 ^ Mccluskey, M. (7 Oct 2020) Horror Films Have Always Tapped Into Pop Culture’s Most Urgent Fears. COVID-19 Will Be Their Next Inspiration. TIME. https://time.com/5891305/horror-movies-coronavirus-history-genre/
 
-Hypothesis
+## Hypothesis
 We believe that the predominant genres in the top 100 grossing films over the past two decades have shifted toward action-packed genres such as action, fantasy, and sci-fi, reflecting the COVID-19 pandemic, with films often reflecting the themes of survival or dystopias.
 
-Data
+## Data
 Data overview
 Dataset #1
 - Dataset Name: Full TMDB Movies Dataset 2024 (1M Movies)

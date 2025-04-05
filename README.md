@@ -7,7 +7,8 @@ Names
 -Nathan Nguyen
 -Kate Wang
 
-##Abstract
+## Abstract
+
 Do the most popular movie genres change according to worldwide, life-changing events, such as the COVID-19 pandemic? This project explores this question, comparing movie genres from top-grossing movies from two time periods: pre-pandemic (2017-2019) and post-pandemic (2022-2024).
 
 We collected data from a large movie database found on Kaggle and cleaned it to include only the years and pertinent column information we would need to carry out the project. Then, we conducted numerous analysis including linear models, text analysis like plot summaries and keyword sentiment, paired t-tests, and a Simpson’s diversity index. Alongside this, we generated both line and bar graphs to visualize the data in tandem with the other analysis.
